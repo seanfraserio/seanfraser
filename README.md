@@ -1,35 +1,38 @@
-# 👨‍💻 Senior Solutions Architect
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sstgfraser/sstgfraser/main/.github/vector.png"/>
+
+## 👨‍💻 Senior Solutions Architect
 
 Hello there! 👋 I'm a highly skilled and experienced Senior Solutions Architect with over 15 years of expertise in designing, implementing, and maintaining secure cloud infrastructures. My passion lies in crafting robust solutions that leverage cutting-edge cloud technologies.
 
-## 💼 Professional Background
+### 💼 Professional Background
 
 - **Experience:** 15+ years
 - **Specialization:** Cloud Infrastructure Design and Implementation
 - **Cloud Platforms:** Linode (Akamai), AWS, GCP, Azure
 
-## 🚀 Expertise
+### 🚀 Expertise
 
 - **Cloud Solutions:** Proficient in deploying solutions on various cloud platforms, specializing in Linode (Akamai), AWS, GCP, and Azure.
 - **Use-Cases:** Extensive experience in high-value and specialized cloud computing use-cases.
 
-## 🌐 Cloud Platforms
+### 🌐 Cloud Platforms
 
 - **Linode (Akamai)**
 - **AWS (Amazon Web Services)**
 - **GCP (Google Cloud Platform)**
 - **Azure Cloud**
 
-## 🏗️ Architecture Mastery
+### 🏗️ Architecture Mastery
 
 - **Business Architecture:** Adept at articulating business architecture, defining mission/vision to align technical solutions with business objectives.
 - **Technical Architecture:** Expertise in solution best practices and reference architectures, ensuring optimal outcomes for diverse requirements.
 
-## 📈 Strengths
+### 📈 Strengths
 
 My strength lies in clearly articulating both business and technical architectures, bridging the gap between vision and implementation. I thrive on creating solutions that align with organizational goals.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 Feel free to connect with me to discuss architecture, cloud solutions, or anything tech-related! Your ideas and insights are always welcome.
 
