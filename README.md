@@ -39,4 +39,6 @@ Feel free to connect with me to discuss architecture, cloud solutions, or anythi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanfraser/)
 [![Gmail](https://img.shields.io/badge/Gmail-EE0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sstgfraser@gmail.com)
 
-Looking forward to collaborating and creating innovative solutions together! 🚀
+### Looking forward to collaborating and creating innovative solutions together! 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=sstgfraser&icon=0&color=0)](https://visitcount.itsvg.in)
