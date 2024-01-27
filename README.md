@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sstgfraser/sstgfraser/main/.github/vector.png"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/sstgfraser/sstgfraser/main/.github/vector.png"/>
 
 ## 👨‍💻 Senior Solutions Architect
 
@@ -38,6 +38,10 @@ Feel free to connect with me to discuss architecture, cloud solutions, or anythi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanfraser/)
 [![Gmail](https://img.shields.io/badge/Gmail-EE0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sstgfraser@gmail.com)
+
+Check-out my resume to learn more about my professional journey.
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-5091CD?style=for-the-badge&logo=pdf&logoColor=white)](https://raw.githubusercontent.com/sstgfraser/sstgfraser/main/.github/Sean-Fraser-Resume.pdf)
 
 ### Looking forward to collaborating and creating innovative solutions together! 🚀
 ---
